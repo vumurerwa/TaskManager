@@ -1,0 +1,63 @@
+html body{
+    padding: 0;
+    margin: 0;
+}
+.header img{
+    height: 70px;
+    
+}
+.container{
+    margin-top: 60px;
+   text-align: center;
+   height: 80vh;
+}
+.container form input{
+    width: 20%;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: rgba(128, 128, 128, 0.432);
+    border: none;
+    color: black;
+    padding-left: 30px;
+    
+}
+::placeholder{
+    color: black;
+  /* padding-left: 1px;*/  
+}
+button{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #519fc9;
+    border: none;
+    
+}
+/*button a{
+    text-decoration: none;
+    color: black;
+}*/
+p a {
+    text-decoration: none;
+    color: #519fc9;
+}
+#user-icon{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+#user-icon2{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+#email-icon{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+#key-icon{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 30px;
+}
