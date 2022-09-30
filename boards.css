@@ -92,7 +92,7 @@ html body{
 
 }
 .container{
-    background-color: red;
+    
     width: 1100px;
     height: 470px;
     margin-left: 180px;
@@ -100,7 +100,7 @@ html body{
     display: flex;
 }
 .cards-container{
-    background-color: yellow;
+    background-color: white;
     width: 230px;
     margin-right: 30px;
 
