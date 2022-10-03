@@ -100,8 +100,124 @@ html body{
     display: flex;
 }
 .cards-container{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.411);
     width: 230px;
     margin-right: 30px;
 
+}
+.cards-container-status{
+    font-size: 25px;
+   /* margin-left: 60px;*/
+    margin-top: 10px;
+}
+.title{
+    margin-left: 50px;
+}
+.actor{
+    margin-left: 60px;
+}
+#schedule{
+    position: absolute;
+    height: 40px;
+    margin-left: 5px;
+    
+}
+#act{
+    position: absolute;
+    height: 30px;
+    margin-left: 5px;
+    
+    
+}
+#test{
+    position: absolute;
+    height: 40px;
+    margin-left: 5px;
+    
+}
+#complete{
+    position: absolute;
+    height: 40px;
+    margin-left: 5px;
+    
+}
+.cards-container-list{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.card{
+    background-color: #114C6B ;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 60%;
+    display: flex;
+    border-radius: 10px;
+}
+.card-title{
+    font-size: 20px;
+    color: white;
+}
+#b1{
+    height: 30px;
+   margin-left: 30%;
+   border-radius: 50%;
+}
+#b11{
+    height: 30px;
+   margin-left: 20%;
+   border-radius: 50%;
+}
+#b2{
+    height: 30px;
+   margin-left: 40%;
+   border-radius: 50%;
+}
+#b22{
+    height: 30px;
+   margin-left: 30%;
+   border-radius: 50%;
+}
+#b3{
+    height: 30px;
+   margin-left: 40%;
+   border-radius: 50%;
+}
+#b33{
+    height: 30px;
+   margin-left: 10%;
+   border-radius: 50%;
+}
+#b4{
+    height: 30px;
+   margin-left: 40%;
+   border-radius: 50%;
+}
+#b44{
+    height: 30px;
+   margin-left: 35%;
+   border-radius: 50%;
+}
+#b5{
+    height: 30px;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+#b55{
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+.modify{
+    display: flex;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 6px;
+   
+}
+#edit{
+   margin-left: 160px;
+}
+#trash{
+    margin-left: 5px;
 }
